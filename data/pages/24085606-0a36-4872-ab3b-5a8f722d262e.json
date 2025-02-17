@@ -9,6 +9,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event-comparison",
       "includes": [
         "media",
@@ -23,11 +31,19 @@
         "file": "ae502942-3c88-4f66-8873-1eebd4f524ee"
       },
       "event2": {
-        "uuid": "9a6f091c-3828-42ad-bfec-8933a225f8be",
-        "start": 3827,
+        "uuid": "7f09582e-a51a-400e-9616-bdf38988e666",
+        "start": 3817,
         "end": 5450,
-        "file": "17feb55c-dcf0-4e92-a15d-ac1b5bd8724e"
+        "file": "c89d1d18-f41b-4618-ac4e-a88614eade26"
       },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -52,6 +68,6 @@
   "slug": "gotham-diamond-and-the-long-form-feature",
   "created_at": "2025-02-16T21:53:46.072Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-02-16T21:53:46.072Z",
+  "updated_at": "2025-02-17T15:20:42.698Z",
   "updated_by": "spokenweb"
 }
