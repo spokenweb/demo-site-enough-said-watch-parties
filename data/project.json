@@ -9,7 +9,7 @@
     "github_org": "spokenweb",
     "is_private": false,
     "title": "DEMO SITE Enough Said x AV Annotate Community Annotation Project",
-    "description": "Test pages of the Performance Poetry Party and Gotham Diamond in preparation for hosting watch parties.",
+    "description": "The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.\n\nThese approaches include 1) new forms of historical and critical scholarly engagement; 2) digital preservation and aggregation techniques, asset management and infrastructure to support sustainable access; 3) techniques and tools for searching, visualizing, analyzing and enhancing critical engagement (for features relevant to humanities research and pedagogy); and 4) innovative ways of mobilizing digitized spoken and literary recordings within pedagogical, performative and public contexts.\n\nThe SpokenWeb program begins with the preservation and description of sonic artifacts that have captured literary events of the past, and quickly moves into a wide range of approaches and activities activate these artifacts in the present.\n\n\nThe Enough Said Reading Series, organized by Lee Gotham, was held in Montreal between 1994 and 1996. Held at venues such as Bistro Quatre and Building Danse in the Plateau neighbourhood, the series attracted performance and spoken word poets and groups such as Swift Lazar, Fluffy Pagan Echoes, Fortner Anderson, Ian Stephens, Adeena Karasick, and more. Enough Said held and eclectic and important place in Montreal's underground arts scene, and thus offers a unique glimpse into a fraught time in Montreal's history. ",
     "language": "en",
     "slug": "demo-site-enough-said-watch-parties",
     "creator": "spokenweb",
@@ -1568,7 +1568,7 @@
       ]
     },
     "created_at": "2025-02-16T21:32:48.152Z",
-    "updated_at": "2025-02-17T15:44:13.639Z",
+    "updated_at": "2025-02-17T15:58:47.357Z",
     "generate_pages_site": true
   },
   "is_private": false
