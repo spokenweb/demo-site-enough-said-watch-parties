@@ -18,14 +18,22 @@
     },
     {
       "type": "event",
-      "uuid": "9a6f091c-3828-42ad-bfec-8933a225f8be",
+      "uuid": "7f09582e-a51a-400e-9616-bdf38988e666",
       "includes": [
         "annotations",
         "label"
       ],
       "start": 1853,
       "end": 1991,
-      "file": "17feb55c-dcf0-4e92-a15d-ac1b5bd8724e",
+      "file": "c89d1d18-f41b-4618-ac4e-a88614eade26",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -68,6 +76,6 @@
   "slug": "performance-poetry-party-and-discussions-of-g",
   "created_at": "2025-02-16T21:38:30.911Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-02-17T15:16:55.667Z",
+  "updated_at": "2025-02-17T15:18:27.346Z",
   "updated_by": "spokenweb"
 }
