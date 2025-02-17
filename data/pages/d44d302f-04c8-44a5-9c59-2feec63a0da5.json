@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We contacted the participants in the Enough Said Reading Series to request the rights to publish the recordings online. 68% of participants we contacted agreed to have their work appear in the online exhibition. We contacted these individuals proposing a watch/annotation party on Zoom. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It was necessary to think about which videos would be best suited to this practice, and we considered the number of participants featured in the videos, the need to have a wide range of performers featured across the videos, and how many people we were not able to contact or did not hear back from appeared in the videos. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On DATE, NUMBER OF PARTICIPANTS gathered on Zoom to watch VIDEO NAME. They commented on the videos using the chat function in Zoom, and were instructed to relay any thought or emotional response, whether deeply thought or very casual. This exhibition is therefore a presentation of SpokenWeb's transcription and digitization processes, as well as an intimate look into how the participants of this reading series look back on themselves and their peers at a unique time in Montreal's literary history. "
+        }
+      ]
+    }
+  ],
+  "title": "Process",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "process",
+  "created_at": "2025-02-17T15:44:13.263Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-02-17T15:44:13.263Z",
+  "updated_by": "spokenweb"
+}
